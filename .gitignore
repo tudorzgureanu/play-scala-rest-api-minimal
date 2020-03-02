@@ -1,0 +1,14 @@
+*.class
+*.log
+
+# IDEA
+.idea/
+
+# sbt specific
+.cache
+.history
+dist/*
+target/
+
+# Mac OS X
+.DS_Store
