@@ -2,7 +2,7 @@ package com.tudorzgureanu.playsample.services
 
 import java.time.{LocalDateTime, ZoneOffset}
 
-import com.tudorzgureanu.playsample.api.model.SampleResponse
+import com.tudorzgureanu.playsample.model.SampleResponse
 
 import scala.concurrent.Future
 

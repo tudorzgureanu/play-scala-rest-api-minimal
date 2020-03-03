@@ -1,4 +1,4 @@
-package com.tudorzgureanu.playsample.api.model
+package com.tudorzgureanu.playsample.model
 
 import java.time.LocalDateTime
 import play.api.libs.json._

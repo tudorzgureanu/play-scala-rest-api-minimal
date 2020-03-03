@@ -3,7 +3,7 @@ package com.tudorzgureanu.playsample.api.controllers
 import java.time.LocalDateTime
 
 import com.tudorzgureanu.playsample.api.controllers.PlaySampleControllerSpec.SampleServiceDummy
-import com.tudorzgureanu.playsample.api.model.SampleResponse
+import com.tudorzgureanu.playsample.model.SampleResponse
 import com.tudorzgureanu.playsample.services.SampleService
 import org.scalatest.matchers.should.Matchers
 import org.scalatest.wordspec.AnyWordSpec
